@@ -10,7 +10,7 @@ for (var i = 0; i < allEmail.length; i++) {
     if (allEmail[i] === "salve@hotmail.it") {
         check = true;
         break;
-    }
+    } 
 }
 
 if (check) {
