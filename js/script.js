@@ -7,7 +7,7 @@ var allEmail = ["ciao@gmail.com", "salve@hotmail.it", "buongiorno@alice.it", "ar
 var check = false;
 
 for (var i = 0; i < allEmail.length; i++) {
-    if (allEmail[i] === "salve@hotmail.it") {
+    if (userMail === allEmail[i]) {
         check = true;
         break;
     } 
