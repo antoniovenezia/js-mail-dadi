@@ -22,8 +22,8 @@ if (check) {
 
 
 // SECONDA PARTE DELL'ESERCIZIO - DADI
-var x = Math.round(Math.random()*10);
-var y = Math.round(Math.random()*10);
+var x = Math.round(Math.random()*6);
+var y = Math.round(Math.random()*6);
 
 
 if (x > y) {
